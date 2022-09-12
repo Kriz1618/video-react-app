@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-react-app/static/css/main.194e3cec.css",
+    "main.js": "/video-react-app/static/js/main.40604651.js",
+    "index.html": "/video-react-app/index.html",
+    "main.194e3cec.css.map": "/video-react-app/static/css/main.194e3cec.css.map",
+    "main.40604651.js.map": "/video-react-app/static/js/main.40604651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194e3cec.css",
+    "static/js/main.40604651.js"
+  ]
+}
