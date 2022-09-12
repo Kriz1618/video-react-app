@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Videos React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirements
+  ```
+  npm@8.12.1
+  node@v18.4.0
+  ```
+
+## Clone
+Clone this project with the command `git clone https://github.com/Kriz1618/video-react-app`
+
+## Install
+cd react-eshop
+npm i
+npm start
+
 
 ## Available Scripts
 
@@ -13,11 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -45,21 +53,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
@@ -67,4 +60,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Stack
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBgVGQ2bi6XyUGFV95s2ItFx_1MJUP-Jl-w&usqp=CAU" width="80"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+[<img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" width="80"/>](https://es.reactjs.org/docs/getting-started.html)
+
+[<img src="https://mui.com/static/logo.png" width="80"/>](https://mui.com/)
